@@ -4,7 +4,6 @@ import {
   TypographyTokens,
   TypographyToken,
   GradientTokens,
-  GradientToken,
 } from "../types/tokens";
 
 /**
